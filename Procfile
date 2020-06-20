@@ -1,1 +1,1 @@
-notifier: python notifier.py
+Notifier: python Notifier.py
