@@ -1,1 +1,1 @@
-notifier: python notifier.ipynb
+notifier: python notifier.py
